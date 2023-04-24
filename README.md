@@ -1,7 +1,7 @@
 # Blog
 > Website where users can share some of their stories.
 
-<img src="https://user-images.githubusercontent.com/106910358/218321041-815edd8d-6b3a-4255-8d31-64e94f3dfc1c.png" width="100%" height="400" />
+<img src="https://user-images.githubusercontent.com/106910358/234078429-3f760db5-054c-48d2-9def-edc7170a0deb.png" width="100%" height="400" />
 
 
 ## General Information
