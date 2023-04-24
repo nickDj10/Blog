@@ -1,8 +1,8 @@
 # Blog
 > Website where users can share some of their stories.
 
-<img src="https://user-images.githubusercontent.com/106910358/234078429-3f760db5-054c-48d2-9def-edc7170a0deb.png" width="50%" height="400" />
-<img src="https://user-images.githubusercontent.com/106910358/234078697-fe344035-b3d1-4ea6-9fdd-86d9be72752e.png" width="50%" height="400" />
+<img src="https://user-images.githubusercontent.com/106910358/234078429-3f760db5-054c-48d2-9def-edc7170a0deb.png" width="500" height="400" />
+<img src="https://user-images.githubusercontent.com/106910358/234078697-fe344035-b3d1-4ea6-9fdd-86d9be72752e.png" width="500" height="400" />
 
 
 ## General Information
@@ -36,8 +36,8 @@
 
 - Add your own posts.
 
-<img src="https://user-images.githubusercontent.com/106910358/218321528-a6f9c2fb-3c60-4d62-8e72-7aaebc6948aa.png" width="100%" height="400" />
-
+<img src="https://user-images.githubusercontent.com/106910358/234078975-900e623b-dd74-44be-ba96-3f5fc3f888ed.png" width="500" height="400" />
+<img src="https://user-images.githubusercontent.com/106910358/234078985-346b47ca-9859-487c-a7d0-1168d178b891.png" width="500" height="400" />
 
 ## Subscriber
 
