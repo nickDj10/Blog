@@ -1,8 +1,8 @@
 # Blog
 > Website where users can share some of their stories.
 
-<img src="https://user-images.githubusercontent.com/106910358/234078429-3f760db5-054c-48d2-9def-edc7170a0deb.png" width="500%" height="400" />
-<img src="https://user-images.githubusercontent.com/106910358/234078697-fe344035-b3d1-4ea6-9fdd-86d9be72752e.png" width="500%" height="400" />
+<img src="https://user-images.githubusercontent.com/106910358/234078429-3f760db5-054c-48d2-9def-edc7170a0deb.png" width="50%" height="400" />
+<img src="https://user-images.githubusercontent.com/106910358/234078697-fe344035-b3d1-4ea6-9fdd-86d9be72752e.png" width="50%" height="400" />
 
 
 ## General Information
